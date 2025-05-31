@@ -1,20 +1,10 @@
-a= "1. Raya"
-q= 20
-b= "2. Veer" 
-r= 15
-c= "3. Kaira" 
-s= 13
-d= "4. Bunny" 
-t= 25 
-e= "5. Lokesh"
-m= 56
-print (a) 
-print (q) 
-print (b) 
-print (r) 
-print (c) 
-print (s) 
-print (d) 
-print (t) 
-print (e) 
-print (m) 
+raeena=12/01/1999
+print("raeena")
+raya=11/01/2002
+print("raya")
+aarya=09/12/1234
+print("aarya")
+ram=22/02/2003
+print("ram")
+sita=25/02/2004
+print("sita")
